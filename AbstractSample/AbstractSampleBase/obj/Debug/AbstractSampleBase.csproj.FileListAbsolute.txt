@@ -1,0 +1,5 @@
+C:\Works\AbstractSample\AbstractSampleBase\bin\Debug\AbstractSampleBase.pdb
+C:\Works\AbstractSample\AbstractSampleBase\obj\Debug\AbstractSampleBase.csprojResolveAssemblyReference.cache
+C:\Works\AbstractSample\AbstractSampleBase\obj\Debug\AbstractSampleBase.pdb
+C:\Works\AbstractSample\AbstractSampleBase\bin\Debug\AbstractSampleBase.exe
+C:\Works\AbstractSample\AbstractSampleBase\obj\Debug\AbstractSampleBase.exe
